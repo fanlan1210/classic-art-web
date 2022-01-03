@@ -1,0 +1,10 @@
+html {
+    writing-mode: vertical-rl;
+}
+body {
+    min-width: 100vw;
+}
+
+.ddd {
+    text-shadow: 3px 3px #C5FF73, -3px -3px #E573FF;
+}
